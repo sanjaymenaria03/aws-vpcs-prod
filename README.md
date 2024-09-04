@@ -1,3 +1,10 @@
+```
+Created simple index.html file and then started python server on all of private subnet's ec2 machines
+with the help of bastion server in public subnets  -
+```
+```python I'm A tab
+python3 -m http.server 8000
+```
 # aws-subnets
 
 ![image](https://github.com/sanjaymenaria03/aws-subnets/assets/76099779/9a8ecf22-9937-4d8f-ada6-8c43cf65bb76)
